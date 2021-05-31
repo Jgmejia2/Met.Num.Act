@@ -8,5 +8,6 @@ x=np.linspace(-10,10,500)
 
 plt.plot(x,f(x))
 plt.plot(x,g(x))
-plt.title("Funciones")
-plt.grid()
+plt.title("Funciones") 
+plt.grid() 
+plt.show()
